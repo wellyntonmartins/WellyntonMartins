@@ -83,7 +83,7 @@ Meu nome é wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pe
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="130" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=wellyntonmartins&theme=onedark&include_all_commits=true&locale=pt-br&custom_title=Dados-de-Wellynton" 
   />
@@ -91,7 +91,7 @@ Meu nome é wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pe
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="130" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyntonmartins&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
