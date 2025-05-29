@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Meu nome é wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pelo aprendizado de coisas novas. Concilio meu dia entre o ensino médio, o trabalho como desenvolvedor e os estudos da programação, sendo autodidata e, também, cursando um curso técnico de **Desenvolvimento de sistemas (EAD)**. Busco trilhar minha jornada hoje e no futuro através do mundo da técnologia e desenvolvimento e compartilhar nesta página um pouco dos meus conhecimentos, habilidades e principalmente minha trajetória.
+Meu nome é wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pelo aprendizado de coisas novas. Concilio meu dia entre o ensino médio, o trabalho como desenvolvedor e os estudos da programação, cursando um curso técnico de **Desenvolvimento de sistemas (EAD)**, também em conjunto sendo autodidata. Busco trilhar minha jornada através do mundo da técnologia e desenvolvimento, compartilhando nesta página um pouco dos meus conhecimentos, habilidades e principalmente minha trajetória.
 
 ---
 
