@@ -10,8 +10,10 @@ Meu nome é Wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pe
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,java,spring,js,html,css,bootstrap)](https://skillicons.dev)
 
-<br/>
-<br/>
+
+### 💬 Vamos conversar?
+<a href="https://www.linkedin.com/in/wellyntonmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:wellyntonjoaomartins@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
 
 
 ### 📶 Dados & Estatícsticas
