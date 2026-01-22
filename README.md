@@ -8,7 +8,7 @@ Meu nome é Wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pe
 
 ### 🤖📝 Linguagens & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,java,spring,js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,java,php,js,html,css,bootstrap)](https://skillicons.dev)
 
 
 ### 💬 Vamos conversar?
