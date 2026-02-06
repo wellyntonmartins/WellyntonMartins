@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Wellynton Martins
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=30&pause=1000&color=4282FF&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB+Wellynton+Jo%C3%A3o+Martins)](https://git.io/typing-svg)
 
 **`Desenvolvedor Fullstack`**
 
