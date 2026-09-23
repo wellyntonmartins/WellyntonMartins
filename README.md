@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Fullstack`**
 
-Meu nome é Wellynton, tenho 17 anos, sou entusiasta dos códigos e fascinado pelo aprendizado de coisas novas. Concilio meu dia entre o ensino médio, o trabalho como **desenvolvedor há mais de um ano** e meio e os estudos da programação, cursando um curso técnico de **Desenvolvimento de sistemas (EAD)**, também em conjunto sendo autodidata. Busco trilhar minha jornada através do mundo da técnologia e desenvolvimento, compartilhando nesta página um pouco dos meus conhecimentos, habilidades e principalmente minha trajetória.
+Meu nome é Wellynton, tenho 18 anos, sou entusiasta dos códigos e fascinado pelo aprendizado de coisas novas. Concilio meu dia entre, o trabalho como **desenvolvedor há mais de 2 anoa** e os estudos da programação, sendo formado como https://github.com/wellyntonmartins **Desenvolvimento de sistemas** pelo SENAC, também em conjunto sendo autodidata. Busco trilhar minha jornada através do mundo da técnologia e desenvolvimento, compartilhando nesta página um pouco dos meus conhecimentos, habilidades e principalmente minha trajetória.
 
 ---
 
 ### 🤖📝 Linguagens & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,postgres,java,spring,php,js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,node,python,flask,mysql,postgres,java,spring,php,js,html,css,bootstrap)](https://skillicons.dev)
 
 
 ### 💬 Vamos conversar?
